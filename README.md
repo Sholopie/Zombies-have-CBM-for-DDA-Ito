@@ -9,4 +9,4 @@ I made this mod to add at least a drop of Cataclysm BN To Cataclysm DDA
 - medical (and subspecies), 
 - lab security, 
 - cop, 
-- survivor and Elite survivor.\
+- survivor and Elite survivor.
